@@ -4,12 +4,12 @@ This is the backend for our **Budget Buddy / Financial Aid Project** built using
 It provides REST APIs for simple financial calculations (no user data is stored).
 
 #######################
- Features
+Features
 ✅ Financial Aid Estimator  
 ✅ Budget Buckets (recommended monthly spending)  
 ✅ Savings Goal Planner  
 ✅ Compare Spending vs Budget (optional extension)
-#######################
+ #######################
 
 Tech Stack
 - **Python 3.13**
